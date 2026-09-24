@@ -1,0 +1,6 @@
+
+LOOP: .data 10
+LOOP: .string "Hello"
+
+    mov r3, r4
+stop

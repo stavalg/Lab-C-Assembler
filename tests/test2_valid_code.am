@@ -1,0 +1,9 @@
+
+LOOP: .data 10, -5, 20
+.string "Hello"
+
+    mov r3, r4
+    inc r2
+
+jmp LOOP
+stop
